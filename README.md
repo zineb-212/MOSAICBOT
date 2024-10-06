@@ -1,4 +1,4 @@
-# MOSAICBOT
+# MOSAICBOT 🟥🟡🦾
 
   <img width="700" alt="a"  src="https://github.com/user-attachments/assets/4d4c9746-fbb1-4728-89a0-fcaf8321f389">
 
